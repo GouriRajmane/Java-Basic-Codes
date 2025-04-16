@@ -1,1 +1,1 @@
-This will help to uNderstand the JAVA Basic codes.
+This will help to understand the JAVA Basic codes.
